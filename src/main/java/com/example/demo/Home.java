@@ -13,4 +13,5 @@ import lombok.Setter;
 public class Home {
     @Id
     private int id;
+private String name;
 }
